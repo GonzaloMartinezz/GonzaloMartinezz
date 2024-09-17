@@ -13,9 +13,6 @@ Hola soy Gonzalo Martínez!👋<br><br>🙋🏼‍♂️Soy un Programador joven
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloMartinezz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMartinezz&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GonzaloMartinezz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 

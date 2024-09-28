@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <h1 align> Hola Soy <a href="https://www.linkedin.com/in/gonzalomartinez9">Gonzalo Martinez </a> 👋 </h1>
+  <h1 align> Hola Soy <a href="https://media.licdn.com/dms/image/v2/D4E16AQHsZDXpX-RDog/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727534644952?e=1732752000&v=beta&t=XfGX8h_FgOdklRyfVL4EL1LRGYjduuOb8J4bNiBicvA">Gonzalo Martinez </a> 👋 </h1>
 </div>
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGL4KNVMs9feg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726580248761?e=1732147200&v=beta&t=-zR7J-PXCeC2URN3C3ZX0BJin0zF4DivROMzJJWyRrk">
 

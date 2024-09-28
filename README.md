@@ -1,7 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <h1 align> Hola Soy <a href="![Banner Para LinkedIn progamador fullstack](https://github.com/user-attachments/assets/c53e960b-0add-4c25-abd3-39fcf71f05a7)
-">Gonzalo Martinez </a> 👋 </h1>
+  <h1 align> Hola Soy <a href="">Gonzalo Martinez </a> 👋 </h1>
 </div>
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGL4KNVMs9feg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726580248761?e=1732147200&v=beta&t=-zR7J-PXCeC2URN3C3ZX0BJin0zF4DivROMzJJWyRrk">
 

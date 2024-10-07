@@ -2,8 +2,7 @@
 <div align="center">
   <h1 align> Hola Soy <a href="https://media.licdn.com/dms/image/v2/D4E16AQHsZDXpX-RDog/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727534644952?e=1732752000&v=beta&t=XfGX8h_FgOdklRyfVL4EL1LRGYjduuOb8J4bNiBicvA">Gonzalo Martinez </a> 👋 </h1>
 </div>
-<img src="https://github.com/user-attachments/assets/07b3c71d-ed7c-43cf-b953-9a823f021eea
-">
+<img src="https://github.com/user-attachments/assets/07b3c71d-ed7c-43cf-b953-9a823f021eea"
 
 <br><br>🙋🏼‍♂️𝐒𝐨𝐲 𝐮𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐝𝐨𝐫 𝐭𝐫𝐚𝐢𝐧𝐞𝐞 𝐝𝐞 𝟐𝟎 𝐚ñ𝐨𝐬 𝐝𝐞 𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚 ; 𝐄𝐦𝐩𝐫𝐞𝐧𝐝𝐞𝐝𝐨𝐫 𝐝𝐢𝐬𝐩𝐮𝐞𝐬𝐭𝐨 𝐚 𝐚𝐲𝐮𝐝𝐚𝐫 𝐲 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐚𝐫 𝐞𝐧 𝐞𝐥 á𝐦𝐛𝐢𝐭𝐨 𝐝𝐞𝐥 𝐝𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨,𝐥𝐢𝐝𝐞𝐫𝐚𝐳𝐠𝐨,𝐝𝐞𝐬𝐞𝐦𝐩𝐞ñ𝐨 𝐞𝐧 𝐥𝐚 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐲 𝐩𝐨𝐫 𝐬𝐨𝐛𝐫𝐞 𝐭𝐨𝐝𝐨 𝐜𝐫𝐞𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥.
 

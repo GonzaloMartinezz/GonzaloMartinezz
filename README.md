@@ -1,11 +1,10 @@
 <h1 align="center"><b>Hi , I'm Gonzalo Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="www.linkedin.com/in/gonzalo-martinez-8576b7329"><img src="[https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer](https://github.com/GonzaloMartinezz),;Front End Developer,;Data Analyst,;"></a>
+  <a href="www.linkedin.com/in/gonzalo-martinez-8576b7329"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;https://github.com/GonzaloMartinezz,;Front End Developer,;Data Analyst,;"></a>
 </p>
 
 # 💫 About Me:
-<br>
 
 🙋🏼‍♂️𝐒𝐨𝐲 𝐮𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐝𝐨𝐫 𝐭𝐫𝐚𝐢𝐧𝐞𝐞 𝐝𝐞 21 𝐚ñ𝐨𝐬 𝐝𝐞 𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚 ; 𝐄𝐦𝐩𝐫𝐞𝐧𝐝𝐞𝐝𝐨𝐫 𝐝𝐢𝐬𝐩𝐮𝐞𝐬𝐭𝐨 𝐚 𝐚𝐲𝐮𝐝𝐚𝐫 𝐲 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐚𝐫 𝐞𝐧 𝐞𝐥 á𝐦𝐛𝐢𝐭𝐨 𝐝𝐞𝐥 𝐝𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨,𝐥𝐢𝐝𝐞𝐫𝐚𝐳𝐠𝐨,𝐝𝐞𝐬𝐞𝐦𝐩𝐞ñ𝐨 𝐞𝐧 𝐥𝐚 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐲 𝐩𝐨𝐫 𝐬𝐨𝐛𝐫𝐞 𝐭𝐨𝐝𝐨 𝐜𝐫𝐞𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥.<br>🔊𝐃𝐢𝐬𝐟𝐫𝐮𝐭𝐨 𝐭𝐫𝐚𝐛𝐚𝐣𝐚𝐫 𝐞𝐧 𝐞𝐪𝐮𝐢𝐩𝐨, 𝐲𝐚 𝐪𝐮𝐞 𝐦𝐞 𝐦𝐨𝐭𝐢𝐯𝐚 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐫, 𝐝𝐞𝐛𝐚𝐭𝐢𝐫 𝐲 𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐚𝐫 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬. 𝐋𝐚 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐢𝐚 𝐜𝐨𝐧 𝐦𝐞𝐭𝐨𝐝𝐨𝐥𝐨𝐠í𝐚𝐬 á𝐠𝐢𝐥𝐞𝐬, 𝐜𝐨𝐦𝐨 𝐒𝐂𝐑𝐔𝐌, 𝐡𝐚 𝐬𝐢𝐝𝐨 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥 𝐩𝐚𝐫𝐚 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐫 𝐦𝐢 𝐜𝐚𝐩𝐚𝐜𝐢𝐝𝐚𝐝 𝐝𝐞 𝐠𝐞𝐬𝐭𝐢ó𝐧 𝐲 𝐜𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐜𝐢ó𝐧.<br>🚀𝐂𝐨𝐦𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐝𝐨𝐫, 𝐦𝐢 𝐞𝐧𝐟𝐨𝐪𝐮𝐞 𝐢𝐧𝐢𝐜𝐢𝐚𝐥 𝐞𝐬 𝐬𝐢𝐞𝐦𝐩𝐫𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐫 𝐥𝐚𝐬 𝐢𝐝𝐞𝐚𝐬, 𝐲𝐚 𝐬𝐞𝐚 𝐝𝐞𝐥 𝐜𝐥𝐢𝐞𝐧𝐭𝐞 𝐨 𝐝𝐞𝐥 𝐞𝐪𝐮𝐢𝐩𝐨, 𝐞𝐧 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐨𝐬 𝐭𝐚𝐧𝐠𝐢𝐛𝐥𝐞𝐬 𝐲 𝐛𝐢𝐞𝐧 𝐝𝐞𝐟𝐢𝐧𝐢𝐝𝐨𝐬. 𝐂𝐫𝐞𝐨 𝐪𝐮𝐞 𝐭𝐨𝐝𝐨 𝐠𝐫𝐚𝐧 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨 𝐜𝐨𝐦𝐢𝐞𝐧𝐳𝐚 𝐜𝐨𝐧 𝐮𝐧𝐚 𝐡𝐨𝐣𝐚 𝐞𝐧 𝐛𝐥𝐚𝐧𝐜𝐨, 𝐝𝐨𝐧𝐝𝐞 𝐥𝐚𝐬 𝐢𝐝𝐞𝐚𝐬 𝐜𝐨𝐛𝐫𝐚𝐧 𝐟𝐨𝐫𝐦𝐚. 𝐏𝐨𝐫 𝐞𝐥𝐥𝐨, 𝐩𝐫𝐨𝐟𝐮𝐧𝐝𝐢𝐳ó 𝐞𝐧 𝐞𝐥 𝐮𝐬𝐨 𝐝𝐞 𝐡𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬 𝐝𝐞 𝐝𝐢𝐬𝐞ñ𝐨 𝐜𝐨𝐦𝐨 𝐂𝐚𝐧𝐯𝐚 𝐲 𝐅𝐢𝐠𝐦𝐚, 𝐩𝐚𝐫𝐚 𝐠𝐚𝐫𝐚𝐧𝐭𝐢𝐳𝐚𝐫 𝐪𝐮𝐞 𝐞𝐥 𝐩𝐚𝐬𝐨 𝐝𝐞 𝐥𝐚 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢ó𝐧 𝐚 𝐥𝐚 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐜𝐢ó𝐧 𝐬𝐞𝐚 𝐟𝐥𝐮𝐢𝐝𝐨 𝐲 𝐯𝐢𝐬𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐜𝐨𝐡𝐞𝐫𝐞𝐧𝐭𝐞.
 

@@ -2,7 +2,7 @@
 <!--  -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=2FA4D7&center=true&vCenter=true&random=true&height=40&lines=Front+end+Developer+;Data+Analyst;Software+Quality+Technician" alt="Typing SVG" /></a>
 
-# 💫 About Me:
+# About Me:
 
 Soy Desarrollador Full Stack y Analista de Datos, orientado a la creación de soluciones digitales eficientes y al análisis estratégico de información. Me destaco por ser una persona proactiva y responsable, con capacidad para integrarme rápidamente en equipos de trabajo bajo metodologías ágiles (SCRUM).
 
